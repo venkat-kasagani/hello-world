@@ -12,7 +12,11 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
-	static void abc() {
+	void test() {
+
+	}
+	
+	static void testPop() {
 		
 	}
 }
