@@ -25,4 +25,6 @@ public class DemoApplication {
 	}
 
 	void testAbc() {}
+
+	void testing() {}
 }
