@@ -23,4 +23,6 @@ public class DemoApplication {
 	static void testStashWithName() {
 
 	}
+
+	void testAbc() {}
 }
