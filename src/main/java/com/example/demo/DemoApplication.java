@@ -19,4 +19,8 @@ public class DemoApplication {
 	static void testPop() {
 		
 	}
+
+	static void testStashWithName() {
+
+	}
 }
