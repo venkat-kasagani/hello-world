@@ -15,4 +15,8 @@ public class DemoApplication {
 	void test() {
 
 	}
+	
+	static void testPop() {
+		
+	}
 }
